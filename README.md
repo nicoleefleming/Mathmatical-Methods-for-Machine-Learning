@@ -25,5 +25,7 @@ Here is the link to the textbook we used
     b. [SVD.py](https://github.com/nicoleefleming/stat5810/blob/main/Homework/SVD.py)
     
     c. [QuadraticFit.py](https://github.com/nicoleefleming/stat5810/blob/main/Homework/QuadraticFit.py)
+7. [Midterm Exam](https://app.luminpdf.com/viewer/5fdd1d17f79c2c0012e769c7)
+8. [Final Exam](https://app.luminpdf.com/viewer/5fdd1cd1e8a27b00112aca45)
 
 
