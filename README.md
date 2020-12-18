@@ -11,7 +11,7 @@ Here is the link to the textbook we used
 3. [Homework 3]()
 4. [Homework 4]()
 5. [Homework 5]()
-6. [Homework 6](https://github.com/nicoleefleming/stat5810/blob/main/Homework/stat5810hw63.1.jpg)
+6. [Homework 6](file:///C:/Users/nefle/Downloads/STAT5810hw6%20(2)_compressed%20(1)_compressed%20(1).pdf)
       a. [Image for SVD program](https://github.com/nicoleefleming/stat5810/blob/main/Homework/stat5810hw63.1.jpg)
       b. [SVD.py](https://github.com/nicoleefleming/stat5810/blob/main/Homework/SVD.py)
       c. [QuadraticFit.py](https://github.com/nicoleefleming/stat5810/blob/main/Homework/QuadraticFit.py)
